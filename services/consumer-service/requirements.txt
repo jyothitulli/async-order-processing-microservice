@@ -1,0 +1,4 @@
+pika
+sqlalchemy
+pymysql
+pytest
